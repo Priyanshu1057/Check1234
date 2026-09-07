@@ -1,0 +1,11 @@
+pyrofork==2.3.68
+tgcrypto
+pyropatch
+humanize
+motor
+Dnspython
+pymongo
+umongo
+psutil
+pytz
+aiohttp
